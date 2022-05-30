@@ -13,7 +13,6 @@ class pratik1{
 
         for(int i=0; i<=t; i++){
             if(i % 3 == 0 && i % 4 == 0){
-                
                 sum = sum + i;
                 s = s + 1;
             }
