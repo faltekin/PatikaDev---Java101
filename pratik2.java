@@ -2,6 +2,8 @@ import java.util.Scanner;
 
 public class pratik2 {
     
+    // tek bir sayı girilene kadar kullanıcıdan girişleri kabul eden ve girilen değerlerden çift ve 4'ün katları olan sayıları toplayıp ekrana basan program
+    
     public static void main(String[] args){
 
         int n;
